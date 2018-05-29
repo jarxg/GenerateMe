@@ -42,14 +42,23 @@ List:
   * composite_video_simulator - very precise VHS/Composite Video/Tape simulation, based on: https://github.com/joncampbell123/composite-video-simulator
   * Obj2Raw - convert OBJ vertex data to RAW 8 bit signed (for sonification purposes)
   * granularresynth - Granular (re)synthesis of any RAW using other RAWs for visual/audio
-  * -> sonification - image sonification 
+  * -> sonification - image sonification
   * -> GLIC - glitch image codec
   * TEMPLATE - clean template sketch with some predefined functions
 
 ## Processing 3
 
+By https://github.com/romanrandom:
+
   * pixeldrifter
   * pngglitch
   * Obj2Raw
-	
-	provided by https://github.com/romanrandom
+  
+By https://github.com/philhudson91:
+ 
+  * threadraw
+  * ultimateSort
+  * watmap
+  * wavelets
+  * wrongqsort
+  * wzipprocess2
